@@ -23,7 +23,4 @@ nucleic acids small-ligands MD which includes also docking before. All of it is 
 In general modern drug design base on creating a ligand which will bind into functional region of a protein or nucleic acid (called in general molecular targets) 
 and will stay there blocking target from performing its biological function. Common example is aspirine which blocks enzyme cyclooxigenaze II which is responsible
 for triggering inflamation response.
-
-My another huge interests is linux itself. I was using arch as my main OS few months, but I also compiled gentoo and the next on my list is LFS itself (on 
-hardware!).
  
