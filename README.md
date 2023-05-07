@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                                                                        
-I'm 1st year Master's at the University of Warsaw, Poland in the field of physics. My interests focus on computational physics where I had a taste with various 
-things: from solid state ground state DFT with spin-orbit correction through solid states excited states simulations with both TD-DFT and BSE methods and finally MD 
-in which I like the most and I think I will stay there longer. Currently I work at the Institute of Biophysics and Biochemistry in Warsaw with both proteins and 
-nucleic acids small-ligands MD which includes also docking before. All of it is done with drug desig in mind. 
+I'm final year Master's at the University of Warsaw, Poland in the field of physics. My interests focus on computational physics where I had a taste with
+various things: from solid state ground state DFT with spin-orbit correction through solid states excited states simulations with both TD-DFT and BSE methods 
+and finally MD. Currently I work at the Centre of New Technologies of the University of Warsaw as a research intern. 
 
-In general modern drug design base on creating a ligand which will bind into functional region of a protein or nucleic acid (called in general molecular targets) 
-and will stay there blocking target from performing its biological function. Common example is aspirine which blocks enzyme cyclooxigenaze II which is responsible
-for triggering inflamation response.
- 
+I am a physicist by education interested by software on low level and for a long term goal I set myself to understand computers from the transistor level through kernel, OS user interface. Therefore I think I will benefit from learning c++ programming better. I may be interested in an entry level position as a c++ developer, so If you are interested, drop me a message.
+
+Personally, I am linux enthusiast and I was using both arch linux with i3 window manager as well as gentoo with dwm window manager as daily drivers. In free time I also like to go outside for birdwatching, and I reccomend it. It's a great way to be more present especially when you start to hear the different birds in cumulative "park song".
