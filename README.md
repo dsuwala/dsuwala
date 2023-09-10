@@ -19,6 +19,6 @@ I'm final year Master's at the University of Warsaw, Poland in the field of phys
 various things: from solid state ground state DFT with spin-orbit correction through solid states excited states simulations with both TD-DFT and BSE methods 
 and finally MD. Currently I work at the Centre of New Technologies of the University of Warsaw as a research intern. 
 
-I am a physicist by education interested by software on low level and for a long term goal I set myself to understand computers from the transistor level through kernel, OS user interface. Therefore I think I will benefit from learning c++ programming better. I am interested in an entry level position as a c++ developer, so If you are interested, drop me a message.
+I am a physicist by education interested by software on low level and for a long term goal I set myself to understand computers from the transistor level through kernel to OS user interface.
 
-Personally, I am linux enthusiast and I was using both arch linux with i3 window manager as well as gentoo with dwm window manager as daily drivers. In free time I also like to go outside for birdwatching, and I reccomend it. It's a great way to be more present especially when you start to hear the different birds in cumulative "park song".
+Personally, I am also linux enthusiast and I was using both arch linux with i3 window manager as well as gentoo with dwm window manager as daily drivers. In free time I also like to go outside for birdwatching, and I reccomend it. It's a great way to be more present especially when you start to hear the different birds in cumulative "park song". Also "Dune" by Frank Herbert fan (currently reading "Childrens of Dune").
