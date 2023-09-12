@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                                                                        
-I'm final year Master's at the University of Warsaw, Poland in the field of physics. My interests focus on computational physics where I had a taste with
+I'm final year Master's at the University of Warsaw, Poland in the field of physics. My research focus on computational physics where I had a taste with
 various things: from solid state ground state DFT with spin-orbit correction through solid states excited states simulations with both TD-DFT and BSE methods 
-and finally MD. Currently I work at the Centre of New Technologies of the University of Warsaw as a research intern. 
+and finally molecular dynamics computational methods. Currently I work at the Centre of New Technologies of the University of Warsaw as a research intern. This extensive
+physics research experience gives me the ability to learn fast and independently aquire necessary knowledge.
 
 I am a physicist by education interested by software on low level and for a long term goal I set myself to understand computers from the transistor level through kernel to OS user interface.
 
