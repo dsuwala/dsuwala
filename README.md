@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                                                                        
-I'm a recent graduate of the University of Warsaw, Poland with the degree in computational physics. My research focused on computational physics where I had a taste with
-various things: from solid state ground state DFT with spin-orbit correction through solid states excited states simulations with both TD-DFT and BSE methods 
-and finally molecular dynamics computational methods. This extensive physics research experience gives me the ability to learn fast and independently aquire necessary knowledge.
-I am also a programmer with most experience in numerical analysis and development of solvers for numerical equations.
-
-I am a physicist by education interested by software on low level and for a long term goal I set myself to understand computers from the transistor level through kernel to OS user interface.
+I'm a recent graduate of the University of Warsaw, Poland with the degree in computational physics. My research interests cover mostly computational chemistry and biology close to the field of drug research.
+I am also a c++/python programmer with strong focus on numerical analysis and the developement of equation solvers for different models. Feel free to explore pinned projects.
 
 Personally, I am also linux enthusiast and I was using both arch linux with i3 window manager as well as gentoo with dwm window manager as daily drivers. In free time I also like to go outside for birdwatching, and I reccomend it. It's a great way to be more present especially when you start to hear the different birds in cumulative "park song". Also "Dune" by Frank Herbert fan (currently reading "Childrens of Dune").
