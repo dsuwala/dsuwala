@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                                                                        
-I'm a recent graduate of the University of Warsaw, Poland with the degree in computational physics. Currently PhD candidate in computational pharmacology in Eugen Hruska group at Charles University, Czech Republic. 
-My research interests cover mostly computational chemistry and biology close to the field of drug research. I am also a c++/python programmer with strong focus on numerical analysis and the developement of equation 
-solvers for different models. Feel free to explore pinned repositories for example projects.
-
-Personally, I am also linux enthusiast and I was using both arch linux with i3 window manager as well as gentoo with dwm window manager as daily drivers.
+I'm a graduate of the University of Warsaw, Poland with the degree in computational physics. Currently PhD candidate in computational pharmacology in Eugen Hruska group at Charles University, Czech Republic. 
+Python programmer in an academic setting where it is important to learn quick and wide variety of tools depending from an actual research need. Interested in modern cloud architectures and familiar with GCP platform.
