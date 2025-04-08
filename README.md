@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
                                                                        
 I'm a graduate of the University of Warsaw, Poland with the degree in computational physics. Currently PhD candidate in computational pharmacology in Eugen Hruska group at Charles University, Czech Republic. 
-Python programmer in an academic setting where it is important to learn quick and wide variety of tools depending from an actual research need. Interested in modern cloud architectures and familiar with GCP platform.
+Python programmer in an academic setting where it is important to learn quickly and wide variety of tools depending from an actual research need. Interested in modern cloud architectures and familiar with GCP platform.
